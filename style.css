@@ -27,3 +27,31 @@ span {
   padding: 10px 20px;
   border-radius: 5px;
 }
+.text-style {
+  text-align: center;
+}
+.card-style {
+  display: flex;
+}
+.card {
+  width: 25%;
+  margin: 5%;
+  padding: 20px;
+  height: 150px;
+
+  box-shadow: 0 0 5px 2px gray;
+}
+section {
+  margin-bottom: 150px;
+}
+.video {
+  text-align: center;
+}
+.customer {
+  display: flex;
+}
+.card-cus {
+  width: 30%;
+  margin: 2%;
+  border-right: 3px solid gray;
+}
